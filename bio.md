@@ -1,0 +1,1 @@
+*here lies ya hopes n dreams* is a Shenzhen-based 3-piece slowcore band, desperately immersed in Karate-sque clean and chorus-textured guitar, layered with Duster-like minimal arpeggios, then eventually wired to the Dry Cleaning-style deadpan vocals.
