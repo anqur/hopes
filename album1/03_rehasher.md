@@ -33,3 +33,7 @@
 [Hunted By A Freak]: https://youtu.be/-F1TmBygqp8?si=uYlV1MFovqTUawYk
 
 [In Circles]: https://youtu.be/41YqzHoCgk4?si=dbSU0Vem1Fz9HDYY
+
+## 第一首
+
+这是整张专辑第一首写完的歌。
