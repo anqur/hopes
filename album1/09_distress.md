@@ -23,7 +23,5 @@
 歌曲末尾的 riff 在写的时候总觉得在哪里听过，后来发现是 Black Country, New Road 的《[Concorde]》。
 
 [Help Both Ways]: https://youtu.be/G410sW198Jc?si=LOA95D1YF6lA7wW6
-
 [The Queen of Hearts]: https://youtu.be/DE-vS9RLN3U?si=AJGz88S1ApkeYH3F
-
 [Concorde]: https://youtu.be/yjC4qXiBRu4?si=Nv3Ns3eVkTyZV2O5

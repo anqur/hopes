@@ -27,5 +27,4 @@
 顺带一提，《The Queen of Hearts》是我在每一次飞机起飞时都会听的歌曲，因为它在 [1:20] 的变奏总是很符合起飞时超重和失重的恐惧感，也正好点了题。
 
 [The Queen of Hearts]: https://youtu.be/DE-vS9RLN3U?si=oW41xK9fogq7_0-H
-
 [1:20]: https://youtu.be/DE-vS9RLN3U?si=-w5sJnE2iECz1tbg&t=80

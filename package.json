@@ -1,0 +1,26 @@
+{
+  "name": "hopes",
+  "version": "1.0.0",
+  "description": "here lies ya hopes n dreams",
+  "keywords": [
+    "music"
+  ],
+  "homepage": "https://github.com/anqur/hopes#readme",
+  "bugs": {
+    "url": "https://github.com/anqur/hopes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anqur/hopes.git"
+  },
+  "license": "MIT",
+  "author": "Anqur",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "fmt": "prettier --ignore-path .gitignore -w ."
+  },
+  "devDependencies": {
+    "prettier": "^3.8.1"
+  }
+}

@@ -11,7 +11,6 @@
 与此同时，这个歌名其实是对 Slint《[Washer]》的一个致敬。
 
 [Happy Songs for Happy People]: https://en.wikipedia.org/wiki/Happy_Songs_for_Happy_People
-
 [Washer]: https://youtu.be/nmL7rXt1fvI?si=N_YE3nkQkMZy8YyA
 
 ## Washer
@@ -31,7 +30,6 @@
 贝斯的部分会让我想起 Sunny Day Real Estate 的《[In Circles]》。
 
 [Hunted By A Freak]: https://youtu.be/-F1TmBygqp8?si=uYlV1MFovqTUawYk
-
 [In Circles]: https://youtu.be/41YqzHoCgk4?si=dbSU0Vem1Fz9HDYY
 
 ## 第一首

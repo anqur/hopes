@@ -13,7 +13,6 @@
 在歌曲的最后一段，鼓和旋律的听感很像 Bedhead 的《[The Unpredictable Landlord]》
 
 [Reed to Hillsborough]: https://youtu.be/VVPw4rypdcw?si=7j5ewHHoUEyWCRvc
-
 [The Unpredictable Landlord]: https://youtu.be/tA2UkrAF7KY?si=QzSO6plhK8lPZZDV
 
 ## The Unpredictable Landlord

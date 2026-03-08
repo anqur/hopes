@@ -19,9 +19,6 @@
 第二张专辑《Contemporary Movement》发行自 2000 年，以“当代运动”、“当代乐章”这样的意味为 21 世纪的到来发出了自己的声音。专辑封面呈现蓝色，所有的歌忽然之间底色都是这样神秘的蓝色，非常有趣。虽然没有了太空的深邃，情绪也更加直白，听感上没有第一张那么地友好，但是这样勇敢的姿态让我觉得 Duster 音乐的成熟度在这张专辑上达到了顶峰。
 
 [Stratosphere]: https://en.wikipedia.org/wiki/Stratosphere_(Duster_album)
-
 [Contemporary Movement]: https://en.wikipedia.org/wiki/Contemporary_Movement
-
 [Heading for the Door]: https://youtu.be/2sf3KtePY1A?si=8x8A4XlezSLmhioU
-
 [1975]: https://youtu.be/QX42zY5TPtE?si=la9xY5RIekzNQwbn
