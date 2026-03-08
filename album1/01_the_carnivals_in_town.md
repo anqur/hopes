@@ -23,3 +23,7 @@ so i close my eyes and wait
 这首歌的律动让我想到 Steve Lacy 的《[Dark Red]》。
 
 [Dark Red]: https://youtu.be/Q6FarZpy67M?si=wUX55z04rwVJXPGr
+
+## 专辑开篇曲
+
+TODO
