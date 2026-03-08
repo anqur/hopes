@@ -14,7 +14,7 @@
 
 整首歌的律动非常像 Duster 的《[Unrecovery]》。
 
-[Unrecovery]: ahttps://youtu.be/y1o7ESLvGdE?si=2OfZsErqp3yI1xjP
+[Unrecovery]: https://youtu.be/y1o7ESLvGdE?si=2OfZsErqp3yI1xjP
 
 ## Unrecovery
 
