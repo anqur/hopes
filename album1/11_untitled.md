@@ -8,7 +8,7 @@
 
 ## 草莓地
 
-26 年春节假期的某日，我的好友池老师给我发了一张草莓地的照片，并附文“[Strawberry Fields Forever]”（The Beatles 的[同名歌曲]）。
+26 年春节假期的某日，我的好友池老师给我发了一张草莓地的照片，并附文“Strawberry Fields Forever”（The Beatles 的[同名歌曲]）。
 
 我回答说：“我很难想象他们为什么会写这样一首歌，歌名、歌词都很怪异。”
 
