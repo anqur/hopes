@@ -12,7 +12,7 @@ _here lies ya hopes n dreams_ is a Shenzhen-based 3-piece slowcore band, despera
 
 ## 名字来由
 
-来自海绵宝宝《[One Krabs Trash]》一集中的台词“[Here lies Squidward’s hopes and dreams], What a baby”。
+来自海绵宝宝《[One Krabs Trash]》一集中的台词“[Here lies Squidward’s hopes and dreams]. What a baby!”。
 
 [One Krabs Trash]: https://spongebob.fandom.com/wiki/One_Krabs_Trash
 [Here lies Squidward’s hopes and dreams]: https://youtu.be/3GAt4UT3mqA?si=KLbFw2LbB4w1slTE
