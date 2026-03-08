@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/anqur/hopes.git"
   },
-  "license": "MIT",
+  "license": "ISC",
   "author": "Anqur",
   "type": "module",
   "main": "index.js",
