@@ -18,13 +18,15 @@
 
 ## Unrecovery
 
-在新冠期间，Duster 上传了一个叫《isolation sounds》的视频，分享了他们在隔离期间演奏音乐的片段。每个人挑选了一首 Duster 的歌进行翻唱，除了 Canaan Dove Amber 演奏了一首叫《isonoise》的新歌（但一直没发行）。
+在新冠期间，Duster 上传了一个叫《[isolation sounds]》的视频，分享了他们在隔离期间演奏音乐的片段。每个人挑选了一首 Duster 的歌进行翻唱，除了 Canaan Dove Amber 演奏了一首叫《isonoise》的新歌（但一直没发行）。
 
 由于他们的演出阵容就是四个人，所以视频里一共有四首歌，其中第一首就是他们解散前的鼓手 Jason Albertini 演奏的《Unrecovery》。Jason 后续的乐队 [Helvetia] 也一直被人认为是 Duster 的精神传承。
 
 我很喜欢《Unrecovery》这首歌，我不知道一开始是谁写的这首歌，暂且认为这首就是 Jason 写的。
 
 值得一提的是，Duster 的每个人都[没有固定的角色]，有的时候他们中的一个人会独自完成一整首歌，整张专辑却能保持听感上的高度一致，神奇的默契。
+
+[isolation sounds]: https://youtu.be/ebRdTRPP5tc?si=FgJmqzfYZSiQ6MHv
 
 [Helvetia]: https://en.wikipedia.org/wiki/Helvetia_(band)
 
