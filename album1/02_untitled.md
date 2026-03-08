@@ -2,7 +2,7 @@
 
 (instrumental)
 
-## BRNC
+## 歌名
 
 这首歌的代号叫做“BRNC”，未命名。因为一开始的 riff 让我联想到 Black Country, New Road 的《[Sunglasses]》，而事实上两首歌的听感完全不同。
 
