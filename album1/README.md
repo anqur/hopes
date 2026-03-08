@@ -27,6 +27,6 @@
 
 ## 琶音
 
-虽然专辑大量的使用 Duster 式的琶音（arpeggio），但我还是十分惊叹于 Radiohead 在《[Jigsaw Falling Into Place]》中对琶音的运用。我不知道怎样才能写出这样的歌。
+虽然专辑大量地使用 Duster 式的琶音（arpeggio），但我还是十分惊叹于 Radiohead 在《[Jigsaw Falling Into Place]》中对琶音的运用。我不知道怎样才能写出这样的歌。
 
 [Jigsaw Falling Into Place]: https://youtu.be/GoLJJRIWCLU?si=Vr5__b85JhGXDvl6
